@@ -1,0 +1,11 @@
+
+	.card{
+		width:500px; 
+		height: fit-content; 
+		border-radius: 25px; 
+		border: solid 2px navy; 
+		margin: 20px; 
+		padding: 20px;
+	}span{
+		color: navy;
+	}
